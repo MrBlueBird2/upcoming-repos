@@ -6,7 +6,7 @@
    css_framework = "Bootstrap";
 }
 
-function cp_solutions(){
+function cp_solutions() {
  name = "cp-solutions"
  description = "Competitive Programming Solutions in Python/C++. Solutions of CP Websites like AtCoder, CodeChef, and many more.;
  expected_date = "19/10/2021";
