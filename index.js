@@ -1,9 +1,9 @@
 function portfolio_flask() {
-    repo = "portfolio-flask"
-    description = "Badri Vishal's Personal Portfolio Website Built with Python Framework Flask Bootstrap and ❤️";
-    expected_date = "18/10/2021";
-    programming_language = "Flask HTML CSS";
-    css_framework = "Bootstrap";
+    this.repo = "portfolio-flask"
+    this.description = "Badri Vishal's Personal Portfolio Website Built with Python Framework Flask Bootstrap and ❤️";
+    this.expected_date = "18/10/2021";
+    this.programming_language = "Flask HTML CSS";
+    this.css_framework = "Bootstrap";
 }
 
 function cp_solutions() {
@@ -12,3 +12,6 @@ function cp_solutions() {
     expected_date = "19/10/2021";
     programming_language = "C++ Python";
 }
+
+let repoCount = 2;
+console.log(repoCount)
