@@ -7,7 +7,7 @@ function portfolio_flask() {
 }
 
 function cp_solutions() {
-    name = "cp-solutions"
+    repo = "cp-solutions"
     description = "Competitive Programming Solutions in Python/C++. Solutions of CP Websites like AtCoder, CodeChef, and many more.";
     expected_date = "19/10/2021";
     programming_language = "C++ Python";
